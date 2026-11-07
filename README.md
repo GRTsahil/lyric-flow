@@ -8,7 +8,7 @@
 
 [Watch the demo](https://youtu.be/QwmLDboIN_A?si=UASwtYlK7zLTzagY) ·
 [Chrome Web Store](#) ·
-[Privacy Policy](#)
+[Privacy Policy](https://grtsahil.github.io/lyric-flow/privacy-policy)
 
 ---
 
