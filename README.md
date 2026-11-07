@@ -1,5 +1,3 @@
-::: {align="center"}
-`<img src="assets/lyric-flow-banner.png" alt="Lyric Flow — Turn YouTube lyrics into visuals" width="100%">`{=html}
 
 # ✨ Lyric Flow
 
